@@ -1,0 +1,49 @@
+{
+    "foods": [
+      {
+        "name": "scrambled eggs",
+        "recipe": {
+          "eggs": "3",
+          "salt": "1 pinch",
+          "milk": "50 g"
+        }
+      },
+      {
+        "name": "bacon and eggs",
+        "recipe": {
+          "eggs": "1",
+          "salt": "1 pinch",
+          "bacon": "50 g"
+        }
+      },
+      {
+        "name": "pancake",
+        "recipe": {
+          "eggs": "1",
+          "salt": "1 pinch",
+          "flour": "50 g",
+          "milk": "50 g",
+          "baking powder":"2 g",
+          "butter":"12 g"
+        }
+      },
+      {
+        "name": "crepe",
+        "recipe": {
+          "eggs": "1",
+          "salt": "1 pinch",
+          "flour": "50 g",
+          "milk": "70 g",
+          "butter":"12 g"
+        }
+      },
+      {
+        "name": "hashbrown",
+        "recipe": {
+          "potato": "1",
+          "salt": "1 pinch",
+          "oil": "50 g"
+        }
+      }
+    ]
+  }
